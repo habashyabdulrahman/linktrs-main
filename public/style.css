@@ -47,7 +47,7 @@ nav h1 {
     margin-bottom: 10px;
 }
 
-nav span {
+nav span a{
     text-transform: uppercase;
     font-weight: bold;
     color: #05c8e2;
