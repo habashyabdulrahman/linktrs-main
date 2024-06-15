@@ -240,7 +240,7 @@ nav {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-@media (max-width: 370px) {
+@media (max-width: 470px) {
     h1 {
         text-align: center;
     }
