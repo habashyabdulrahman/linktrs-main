@@ -240,3 +240,24 @@ nav {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+@media (max-width: 370px) {
+    h1 {
+        text-align: center;
+    }
+
+    label {
+        .moon {
+            font-size: 2rem;
+        }
+        .sun {
+            font-size: 2rem;
+        }
+        .toggle {
+            width: 20px;
+            height: 20px;
+        }
+    }
+    .content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
