@@ -246,7 +246,7 @@ nav {
     }
 
     label {
-        position: none;
+        position: absolute;
         .moon {
             font-size: 2rem;
         }
